@@ -24,7 +24,6 @@ The Old Money Outfit landing page is designed to highlight the sophistication, u
 - Responsive layout for various screen sizes
 - Details section showcasing the characteristics of old money outfits
 - Interactive color display
-- Add to bag functionality
 
 ## Installation / Fork
 
