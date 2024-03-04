@@ -15,7 +15,7 @@ Welcome to The Old Money Outfit landing page! This is a simple and elegant webpa
 The Old Money Outfit landing page is designed to highlight the sophistication, understated luxury, and refined sense of style that old money outfits represent. The webpage features a clean layout, muted colors, and high-quality images that capture the essence of timeless fashion.
 
 <img src="https://drive.google.com/uc?export=view&id=1WTbdjiP7cJbIwFM6LA2ox411kC8XKtP4" alt="Gojo Satoru Image" style="width: 100%; max-width: 600px; height: auto; margin: 20px 0;">
-<a href="https://ramxcodes.github.io/The-Old-Money-Landing-page" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; margin-bottom: 20px;">Visit Website ↗</a>
+<a target="_blank" href="https://ramxcodes.github.io/The-Old-Money-Landing-page" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; margin-bottom: 20px;">Visit Website ↗</a>
 
 
 ## Features
